@@ -1,1 +1,2 @@
-# ADS_Project_6
+# ADS Project 6
+Random Restart Hill Climbing Algorithm Implementation
